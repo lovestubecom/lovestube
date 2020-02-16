@@ -5874,8 +5874,6 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS 2",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 tvg-logo="https://gitlab.com/tonosidik/tv/raw/master/Capture.png" group-title="ADMIN",TONOMONS.TV
-https://dl.dropboxusercontent.com/s/okcoindc5t4z19a/tonomons.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/1280px-MNCTV_MNC-Group.svg.png" group-title="LOKAL-1",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="LOKAL-1",GTV
